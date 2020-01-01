@@ -1,1 +1,1 @@
-# Machine learning Codes
+# Linear Discriminant Analysis(LDA) Algorithm
