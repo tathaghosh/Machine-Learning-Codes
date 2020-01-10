@@ -1,2 +1,2 @@
-##Machine Learning Algorithms used:
+#Machine Learning Algorithms used:
 1.Linear Discriminant Analysis(LDA) Algorithm
