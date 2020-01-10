@@ -1,1 +1,2 @@
-# Linear Discriminant Analysis(LDA) Algorithm
+# Machine Learning Algorithms used
+1.Linear Discriminant Analysis(LDA) Algorithm
